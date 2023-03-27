@@ -13,7 +13,7 @@ import { Submit } from './pages/Submit'
 
 export const App = () => {
   return (
-    <Router basename={'/'}>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/submit' element={<Submit />} />

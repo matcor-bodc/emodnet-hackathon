@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 import 'react-datepicker/dist/react-datepicker.css'
 
-import axios from 'axios'
+// import axios from 'axios'
 import { Button, Col, Container, Form, Row } from 'react-bootstrap'
 import DatePicker from 'react-datepicker'
 
@@ -32,7 +32,7 @@ export const Submit = () => {
       longitude: position[0]
     }
     console.log(payload)
-    axios.post('http://@localhost:5984/data', payload)
+    // axios.post('http://@localhost:5984/data', payload)
   }
 
   return (
