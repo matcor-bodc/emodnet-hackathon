@@ -15,7 +15,6 @@
     "axios": "^1.3.4",
     "dayjs": "^1.11.7",
     "eslint": "^8.15.0",
-    "eslint-config-bodc": "^1.0.1",
     "lodash": "^4.17.21",
     "ol": "^7.3.0",
     "react": "^18.1.0",
@@ -38,11 +37,6 @@
     "lint-fix": "npx eslint ./src --ext .tsx --ext .ts --fix",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "eslintConfig": {
-    "extends": [
-      "bodc"
-    ]
   },
   "browserslist": {
     "production": [
