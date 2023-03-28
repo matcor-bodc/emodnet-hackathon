@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/emodnet-hackathon/static/css/main.9cc06479.css",
-    "main.js": "/emodnet-hackathon/static/js/main.1ccece8b.js",
+    "main.js": "/emodnet-hackathon/static/js/main.5eca8d34.js",
     "index.html": "/emodnet-hackathon/index.html",
     "main.9cc06479.css.map": "/emodnet-hackathon/static/css/main.9cc06479.css.map",
-    "main.1ccece8b.js.map": "/emodnet-hackathon/static/js/main.1ccece8b.js.map"
+    "main.5eca8d34.js.map": "/emodnet-hackathon/static/js/main.5eca8d34.js.map"
   },
   "entrypoints": [
     "static/css/main.9cc06479.css",
-    "static/js/main.1ccece8b.js"
+    "static/js/main.5eca8d34.js"
   ]
 }
